@@ -1,2 +1,2 @@
-# gin-demp
+# gin-example
 Gin Framework Demo
